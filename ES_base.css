@@ -1,0 +1,40 @@
+
+@charset "utf-8";
+/*
+   
+   Personal Business Website Portfolio 
+   Filename: ES_base.css
+
+   This file contains the layout styles used in the Mobile Education Simple website
+
+*/
+
+html {
+	height: 100%;
+	font-size: 44px;
+}
+img, object, embed, video {
+	max-width: 100%;
+}
+body {
+	margin-left: auto;
+	margin-right: auto;
+	width: 81.9%;
+	padding-left: 4.55%;
+	padding-right: 4.55%;
+	clear: none;
+	float: none;
+	min-height: 100%;
+}
+nav {
+	width: 25%;
+	float: left;
+	margin: 6% 2% 0% 0%;
+}
+article {
+	width: 73%;
+	float: left;
+	font-size: 0.8em;
+	text-align: left;
+}
+
