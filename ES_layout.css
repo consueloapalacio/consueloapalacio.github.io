@@ -531,8 +531,8 @@ body aside  img {
 		display: none;
 	}
 
-	article#proposals div {
-	width: 25%;
+	article#proposals {
+	width: 85%;
 }
 	
 	
