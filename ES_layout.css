@@ -535,10 +535,11 @@ body aside  img {
 
 	article#proposals {
 	width: 85vw;
-}
+       }
 	
 	header img {
-		width: 45vw;
+		/* width: 80vw;*/
+		width: 85%;
 		text-align: center;
 	}
 	/*nav#outline {
@@ -559,8 +560,6 @@ body aside  img {
 	nav ul li a {
 		margin-bottom: 4px;
 	}
-
-
 
 html {
 	height: 100%;
