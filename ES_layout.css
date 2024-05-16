@@ -530,10 +530,13 @@ body aside  img {
 	img#learning {
 		display: none;
 	}
-	article {
-		/* display: block */
-		width: 85%;
-	}
+
+	article#proposals div {
+	width: 25%;
+}
+	
+	
+	
 	
 	header img {
 		width: 80vw;
