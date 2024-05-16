@@ -522,9 +522,7 @@ body aside  img {
 	/*mobile devise 0 to 480px*/
 
 @media only screen and (max-width: 480px) {
-	h1 {
-		width: 85vw;
-	}
+	
 	iframe {
 		display: none;
 	}
